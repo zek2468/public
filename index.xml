@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DashWorld WorldBuilding</title>
+    <link>http://example.org/</link>
+    <description>Recent content on DashWorld WorldBuilding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ranks</title>
+      <link>http://example.org/ranks/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/ranks/</guid>
+      <description>All Ranks inherent perks from previous ranks Member Perk Description /recipes The ablity to see all custom crafting and item recipes that we have created as a server /graves The ablity to see where you died and to save your items from despawning /rtp The ability to randomly telport around the map every 10 minutes /pvp toggle The ability to toggle your personal pvp on or off Rewards You will get 10 Ⓟ (Player Points) per hour you play on the server (Being AFK on the server does not count towards your playtime) /pointshop A place to spend your Ⓟ (Player Points) /menu An interactive menu for the server Acquaintance Perk Description /heads Acess to head database heads.</description>
+    </item>
+    <item>
+      <title>Rules</title>
+      <link>http://example.org/rules/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/rules/</guid>
+      <description>Bigotry and discrimination of any kind is prohibited. This includes hate speech, symbols, jokes, skins and anything else that creates an unsafe environment for people of a particular group.
+NSFW text, images, builds, skins, etc will not be permitted.
+Be respectful of other players. Respect others boundaries, and do not harass, threaten, impersonate, share personal information without consent, or otherwise intentionally harm others.
+Do not grief. This includes both destruction or defacing of builds or nearby areas, as well as unwanted block spam.</description>
+    </item>
+    <item>
+      <title>Donate</title>
+      <link>http://example.org/donate/</link>
+      <pubDate>Tue, 06 Sep 2022 19:59:05 -0400</pubDate>
+      <guid>http://example.org/donate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynmap</title>
+      <link>http://example.org/dynmap/</link>
+      <pubDate>Tue, 06 Sep 2022 19:59:05 -0400</pubDate>
+      <guid>http://example.org/dynmap/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rules on DashWorld WorldBuilding</title>
+    <link>http://example.org/rules/</link>
+    <description>Recent content in Rules on DashWorld WorldBuilding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/rules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neutrality Guidelines</title>
+      <link>http://example.org/rules/netrality-guildlines/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/rules/netrality-guildlines/</guid>
+      <description>Neutral nations cannot ally with other nations in aggressive pacts without losing neutrality.
+Nations cannot send overtly threatening or agitating messages without losing neutrality
+Nations cannot become neutral until 1 week after participation in a war.
+Nations must wait 1 week after revoking neutrality before taking any hostile actions.
+All Nations must publicly announce neutrality in #news (In discord).
+Nations must do /n toggle peaceful (costs 80p) to be considered fully neutral.</description>
+    </item>
+    <item>
+      <title>War Rules</title>
+      <link>http://example.org/rules/war-rules/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/rules/war-rules/</guid>
+      <description>Both Leaders must submit a #towny-war-tickets (In discord) UNLESS an effective Casus Belli (Below) is applied to one ticket (with higher staff review)
+Nations that are set to Neutral cannot be brought into any war
+All wars must be announced 48hrs in advance
+Cobelligerents/Allies must be declared in the tickets
+All leaders involved in a war must also present a case for war to staff BEFORE ticket is approved.</description>
+    </item>
+  </channel>
+</rss>

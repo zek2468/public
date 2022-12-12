@@ -1,0 +1,58 @@
+[
+  {
+    "content": " All Ranks inherent perks from previous ranks Member Perk Description /recipes The ablity to see all custom crafting and item recipes that we have created as a server /graves The ablity to see where you died and to save your items from despawning /rtp The ability to randomly telport around the map every 10 minutes /pvp toggle The ability to toggle your personal pvp on or off Rewards You will get 10 Ⓟ (Player Points) per hour you play on the server (Being AFK on the server does not count towards your playtime) /pointshop A place to spend your Ⓟ (Player Points) /menu An interactive menu for the server Acquaintance Perk Description /heads Acess to head database heads.plants Acess to the plants category in head database Create shops [sign] {Item amount you get} {Item amount you give} barter Buddy Perk Description heads.animals Acess to the animals category in head database /nation new The ablity as a town mayor to create a nation with 270 Ⓟ (Player Points) Pal Perk Description heads.blocks Acess to the blocks category in head database /culture set {culture} The ablity to set your towns culture\\religion as the town mayor. Friend Perk Description heads.decoration Acess to the decoration category in head database Friends level Rewards Acess to two more Ⓟ (Player Points) per hour 12 Per Hour in total /pointshop friend Acess to the friend level point shop (Coming Soon) Good Friend Perk Description heads.food_drinks Acess to the food_drinks category in head database /hat The ability to put any item or block on your head as a hat Best Friend Perk Description heads.humanoid/humans Acess to the humans and humanoid category in head database BFF Perk Description heads.miscellaneous Acess to the miscellaneous category in head database /nick The ability to set a custom nickname for yourself nick.color/format The ability to set your nickname or username in color. Soul Mate Perk Description heads.monsters Acess to the monsters category in head database signs.color/formt The ability to set the colors on signs with “\u0026” (Minecraft Wiki : Formatting Codes) chat.color/formt The ability to set the colors in chat with “\u0026” (Minecraft Wiki : Formatting Codes) Comrade Perk Description heads.all Acess to all categories in head database Comrade level Rewards Acess to two more Ⓟ (Player Points) per hour 17 Per Hour in total Legend Perk Description /home Able to teleport to your respawn location from anywhere ",
+    "description": "",
+    "tags": null,
+    "title": "Ranks",
+    "uri": "/ranks/"
+  },
+  {
+    "content": " Bigotry and discrimination of any kind is prohibited. This includes hate speech, symbols, jokes, skins and anything else that creates an unsafe environment for people of a particular group.\nNSFW text, images, builds, skins, etc will not be permitted.\nBe respectful of other players. Respect others boundaries, and do not harass, threaten, impersonate, share personal information without consent, or otherwise intentionally harm others.\nDo not grief. This includes both destruction or defacing of builds or nearby areas, as well as unwanted block spam.\nDo not kill pets or named mobs you do not own.\nNo soliciting, begging, scamming, advertising unrelated things, or trading of real currency.\nDo not create builds that harm the server or other players.\nDo not create afk/mob farms (without a spawner) or devices.\nDo not create Massive redstone devices or farms that harm the server in any way.\nMods, exploited bugs, or cheats that give you an unfair advantage over others are strictly prohibited. (Only cosmetic mods like maps/waypoints and optifine are allowed)\nNo spam, either in chat or via things like teleport requests.\nDo not attempt to bypass bans, PvP toggle, filters, afk or similar measures created by the staff.\nDo not break any IRL laws.\nDo not use alternate accounts.\nDo not steal from other players outside of rule 23.\nOnly use ASCII characters in the chat/server.\nNotify a staff member if you see a violation of the rules or if someone is making you uncomfortable for any reason.\nDo not directly copy real world nations, cultures or religions by name. Influence is accepted, but copying is not.\nDo not build outposts, roads or any other structure near or towards a town without permission first.\nYou may not engage in PvP/War activities before 48hrs of contacting them with the declaration, as well as staff (so that we may set the war status).\nBandits/Pirates and any other organized crime groups are not allowed.\nNo Nations/Towns that directly copy from another server\nIf a home/chest is not in a town or locked, players may take from them\nStaff make final decision on rules and punishments please do not argue with them.\nWhen in a time of war/armed conflict, respect the Server War Rules and any rules established in your War Ticket.\nWait a reasonable amount of time before trying to recruit new members that join the server. Instead, redirect them to the discord with /discord and tell them to look through #nation-ads or ask around.\nPlease appeal all punishment here http://ban.dashworld.xyz:3000/\nAll server rules will continue to evolve over time. This means we may take action against any player or group that violates the spirit of these rules when we encounter a new threat or harm that is not explicitly covered in the current version.\n",
+    "description": "",
+    "tags": null,
+    "title": "Rules",
+    "uri": "/rules/"
+  },
+  {
+    "content": " Neutral nations cannot ally with other nations in aggressive pacts without losing neutrality.\nNations cannot send overtly threatening or agitating messages without losing neutrality\nNations cannot become neutral until 1 week after participation in a war.\nNations must wait 1 week after revoking neutrality before taking any hostile actions.\nAll Nations must publicly announce neutrality in #news (In discord).\nNations must do /n toggle peaceful (costs 80p) to be considered fully neutral. Independent towns must do (costs 40p) /t toggle peaceful\nNeutral Nations must be careful not to fall into a Casus Belli of another nation.\n",
+    "description": "",
+    "tags": null,
+    "title": "Neutrality Guidelines",
+    "uri": "/rules/netrality-guildlines/"
+  },
+  {
+    "content": " Both Leaders must submit a #towny-war-tickets (In discord) UNLESS an effective Casus Belli (Below) is applied to one ticket (with higher staff review)\nNations that are set to Neutral cannot be brought into any war\nAll wars must be announced 48hrs in advance\nCobelligerents/Allies must be declared in the tickets\nAll leaders involved in a war must also present a case for war to staff BEFORE ticket is approved.\nWar Goals must be specified clearly in the ticket.\nOnly players that are in a town BEFORE the ticket was made may participate in the war. (This is to prevent PvP padding)\nRule violations can not be counted as a cause of war and should be resolved by staff.\nCity-States/ Nations cannot declare, participate, or be a target of war within 2 weeks of founding.\nOffline wars are not allowed. A majority (over 60%) of a town/nation/group on both sides must be online for the war to start.\nIf a war needs to be postponed/cancelled, you must inform all involved parties as well as staff.\nStaff has the right to enforce, change and punish as needed in order to maintain the spirit of the server, being worldbuilding and cooperation. (edited)\nEffective Casus Bellis If a Neutral Nation/Town falls into one of these situations, they are at risk of these causes:\nWar of Reclamation:\n-Defected Province- When a province defects due to rebels -Disloyal Vassal- When a vassal breaks free -Reconquest- Reclaiming a town once part of a nation that was taken in a pervious war (Including Rebellion)\nWar of Indebtment:\n-Indebtment- When a indebted nation refuses to follow through on a previous agreement. (If the nation attempts to repay, but is refused, casus belli is null. They No longer have to pay this debt.)\nWar of Independence:\n-Applicable to any town that requests independence (after a majority of active citizens BEFORE the war ticket was created in that town request independence \u003c50%)\nThese become ineffective/null \u0026 void after 2 weeks of occurrence. Ex: Nation A refuses to pay Nation B back after Nation B loaned 20 diamonds with the promise that 64 wool would be given in return. 2 weeks after the initial refusal, Nation B has not declared war. Nation A did not pay the debt and now has no Casus Belli against them\nAll server rules will continue to evolve over time. This means we may take action against any player or group that violates the spirit of these rules when we encounter a new threat or harm that is not explicitly covered in the current version.\n",
+    "description": "",
+    "tags": null,
+    "title": "War Rules",
+    "uri": "/rules/war-rules/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Donate",
+    "uri": "/donate/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Dynmap",
+    "uri": "/dynmap/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/tags/"
+  }
+]
